@@ -7,7 +7,7 @@ https://www.linkedin.com/posts/activity-7146017302398894082-LaDO?utm_source=shar
 
 ### Dataset Information
 
-The data is stored in Pharma_data_analysis.xlsx. This dataset contains 100,000 rows and 10 columns namely 1)EmployeeName 2)gender 3)age	4)hypertension 5)heart_disease 6)smoking_history 7)bmi 8)HbA1c_level	9)blood_glucose_level	10)diabetes
+The data is stored in Diabetes_prediction.xlsx. This dataset contains 100,000 rows and 10 columns namely 1)EmployeeName 2)gender 3)age	4)hypertension 5)heart_disease 6)smoking_history 7)bmi 8)HbA1c_level	9)blood_glucose_level	10)diabetes
 
 ### Questions
 
